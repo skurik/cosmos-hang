@@ -1,0 +1,12 @@
+!.gitkeep
+!.gitignore
+!*.dll
+obj
+bin
+*.user
+*.suo
+*.[Cc]ache
+*.bak
+.idea
+.vs
+packages
